@@ -1,0 +1,5 @@
+__pycache__/
+    db.py
+    main.py
+    models.py
+    routers/
